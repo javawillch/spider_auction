@@ -4,7 +4,6 @@ Name: Will
 purpose:
 pre-condition:
 post-condition:
-modules need to download: BeautifulSoup
 """
 import requests
 
