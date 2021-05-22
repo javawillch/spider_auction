@@ -1,7 +1,7 @@
 """
 Name: Will
 ----------------
-purpose: use find_all(name, attribute, recursive, text, limit. **kwargs)
+purpose: use find_all(name, 『attribute』, recursive, text, 『limit』. **kwargs)
 pre-condition: 
 post-condition: 
 with Example.html
