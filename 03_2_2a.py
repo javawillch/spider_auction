@@ -1,7 +1,7 @@
 """
 Name: Will
 ----------------
-purpose: 
+purpose: save .html as txt file after prettify format by bs4
 pre-condition: 
 post-condition: 
 modules need to download: BeautifulSoup
